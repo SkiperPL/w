@@ -5,6 +5,7 @@
   "version": "1.6.10",
   "dependencies": {
     "cleverbot-free": "^1.0.5",
+    "data-save": "^0.1.14",
     "discord.js": "^12.2.0",
     "fast-sort": "^2.2.0",
     "fstorm": "latest",
